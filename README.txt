@@ -76,5 +76,5 @@ result:
 
 How To Run:
 
-javac -cp jsoup-1.6.2.jar:mysql-connector-java-5.1.15-bin.jar Crawler.java
-java -cp .:jsoup-1.6.2.jar:mysql-connector-java-5.1.15-bin.jar Crawler
+javac -cp jsoup-1.6.2.jar Crawler.java
+java -cp .:jsoup-1.6.2.jar Crawler
